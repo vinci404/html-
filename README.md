@@ -67,3 +67,39 @@ Just thinking of you
   <p>From The Start by Laufey</p>
   </body>
 </html>
+
+<!--another activity-->
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>vinci act</title>
+  </head>
+  <body>
+    <center>
+      <h1><b>My name is Duque</b></h1>
+      <h1><b><u>Here are five facts about me:</u></b></h1>
+      <p>I loveeee <small>cats.</small></p> 
+      <p>Coffee is my <strike>water.</strike></p>
+      <p>I love <i> sweets</i>, especially chocolate bars.</p>
+      <p>I was born in hospital located at <u>Bulacan.</u></p>
+      <p>My fav colors is <b>pink</b> and <b>matcha.</b></p>
+      <br>
+      <h1><b><i><u>Sample of text formatting</u></i></b></h1>
+      <p><b>Can you see the <mark>text</mark>?</b></p>
+      <p><b>Where is the <strike>text</strike>?</b></p>
+      <p><b>I see it right <sup>there.</sup></b></p>
+      <p><b>I thought it was the one <sub>below.</sub></b></p>
+      <p><b>
+        <font size="4">I</font>
+        <font size="3">give</font>
+        <font size="2">up.</font>
+      </b></p>
+      <p><b>
+        <font size="5">Text are</font>
+        <font size="6">everywhere.</font>
+      </b></p>
+      <br>
+    
+  </body>
+</html>
