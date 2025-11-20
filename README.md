@@ -103,3 +103,56 @@ Just thinking of you
     
   </body>
 </html>
+
+<!--this one takes me a whole freaking day before i figured things out, i crashed out and became very frustrated and blame everything and then BOOOMMM it workeddd I'M SO GREAT! GOOGLE SHOULD HIRE ME! TESLA SHOULD WORK FOR ME!!! whahhahahhah i'm sooooo happyyyyyy-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jusq kaya pa ba today</title>
+  <style>
+    p {position: absolute; top: 100px;}
+    cat {position: absolute; top:300px;}
+    posa {position: absolute; top: 500px;}
+  </style>
+ <!-- this part makes slightly sense like since everyname is P the others won't appear so i think i need to set different tags for each of them and these posa and cat work. one p won't work to other p so  i tried different words even though they're not actually tags for html-->
+</head>
+
+<body style="background-color: #f6f6dd;">
+<!--wtf????? this style in background color actually works???? pero bakit kanina hindi???? jusq kinakarma na yata ako-->
+<center>
+    <h1 style="font-family: garamond ;">My Favorite Food</h1>
+</center>
+<!--bakit kanina hindi nakikita ang difference ng garamond at calibri? bakit parang everything is sooo easy tonight unlike kanina?-->
+
+<table align="center" cellpadding="10">
+    <!--pang sisig -->
+    <tr>
+        <td>
+            <img src="https://img.sanishtech.com/u/464566c41a8b7a2e087bae3aef994661.jpg" width="150" height="150" style="border: 10px solid pink;">
+<!--so border won't work without a freaking style??? omg ayun lang pala yun-->
+        </td>
+      <td style="font-family: garamond;"><p>Sisig tofu</p></td>
+  </tr>
+
+    <!--pang cookies and cream -->
+    <tr>
+        <td>
+            <img src="https://img.sanishtech.com/u/2244cb695ffa38b84016112995f32a73.jpg" width="150" height="150" style="border: 10px solid seagreen;">
+        </td>
+      <td style="font-family: garamond;"><cat>Cookies & cream ice cream</cat></td>
+    </tr>
+
+    <!--pang graham -->
+    <tr>
+        <td>
+            <img src="https://img.sanishtech.com/u/9bfa8202080496b843cc80db26837112.jpg" width="150" height="150" style="border: 10px solid lightskyblue;">
+        </td>
+      <td style="font-family: garamond;"><posa>Graham (walang mango)</posa></td>
+    </tr>
+</table>
+<!--lesson learned:  WALLLAAAAA-->
+<!--whomever create this website called sanishtech is hulog ng langitttttt, i can easily copy the image link and paste it here and it actually shows upppp unlike from that 3 colored app (gdrive)-->
+
+</body>
+</html>
