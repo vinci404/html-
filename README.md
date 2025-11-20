@@ -77,7 +77,7 @@ Just thinking of you
   </head>
   <body>
     <center>
-      <h1><b>My name is Duque</b></h1>
+      <h1><b>My name is Vinci</b></h1>
       <h1><b><u>Here are five facts about me:</u></b></h1>
       <p>I loveeee <small>cats.</small></p> 
       <p>Coffee is my <strike>water.</strike></p>
