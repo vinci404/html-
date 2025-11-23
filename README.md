@@ -157,6 +157,10 @@ Just thinking of you
 </body>
 </html>
 
+
+
+
+
 <!--second activity-->
 
 <!DOCTYPE html>
@@ -217,7 +221,12 @@ Just thinking of you
 </body>
 </html>
 
-<-- third activity -->
+
+
+
+
+
+<!--third activity-->
 
 <!DOCTYPE html>
 <html>
