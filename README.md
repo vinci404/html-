@@ -156,3 +156,120 @@ Just thinking of you
 
 </body>
 </html>
+
+<!--second activity-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>this is sooo hard</title>
+    <style>
+        body {
+            font-family: Georgia;
+        }
+        table {
+            width: 60%;
+            border-collapse: collapse;
+            color: #35ab5e;
+            margin: 20px;
+        }
+        th {
+            border: 2px solid green;
+            padding: 8px;
+            text-align: center;
+        }
+      td {
+        border: 1px solid #35ab5e;
+        text-align: center;
+        padding: 10px;
+      }
+      <!--sa lu enrollment-->
+        posa {
+          position: center;
+      }
+    </style>
+</head>
+<body> <center>
+    <table>
+      <posa style="color: #35ab5e;"><strong>LU Enrollment Information 2024</strong></posa>
+     <tr>
+                <td><b>Department</b></td>
+                <td><b>Number of Students</b></td>
+      </tr>  
+            <tr style="color: black;">
+                <td>College of Computing Studies</td>
+              <td>600</td>
+            </tr>
+            <tr style="color: black;">
+                <td>College of Engineering</td>
+                <td>650</td>
+            </tr>
+            <tr style="color: black;">
+                <td>College of Education</td>
+                <td>800</td>
+            </tr>
+            <tr style="color: black;">
+                <td>College of Entrepreneurship</td>
+                <td>900</td>
+            </tr>
+        
+  </table></center>
+</body>
+</html>
+
+<-- third activity -->
+
+<!DOCTYPE html>
+<html>
+  <head><title>last one</title>
+    <style>
+           meow {
+           color: #2596be;
+           }
+      blck {
+        color: black;
+      }
+           </style>
+  </head>
+  <body style="background-color: #eeeee4;" "font-family: tahoma;">
+    <meow>
+      <center><strong><h1>Student Information Form</h1></strong>
+      <br>
+      <label style="color: black;">
+    First name: <input type="text" />
+      </label>
+      <br><br>
+      <label style="color: black;">
+    Last name: <input type="text" />
+      </label>
+        <h2>Specialization</h2>
+    </meow>
+      <blck>
+         <span style="display: inline-block; width: 9px; height: 10px; border-radius: 100%; background-color: white; border: 1px solid black;"></span>
+    Business Analytics
+        </span><br>
+     <span style="display: inline-block; width: 9px; height: 10px; border-radius: 100%; background-color: white; border: 1px solid black;"></span>
+    System Development 
+    </span> <br><br>
+     <span style="display: inline-block; width: 10px; height: 10px; background-color: white; border: 1px solid black;"></span>
+    Computer Science 
+    </span> <br>
+   <span style="display: inline-block; width: 10px; height: 10px; background-color: white; border: 1px solid black"></span>
+    Information Technology 
+  </span>
+</blck>
+<meow><h2>Year:</h2></meow>
+<span style="display: inline-block; border: 1px solid black; background-color: white; text-align: right; width: 100px; height: 15px;">
+    ^
+</span> <br> <blck>
+  <p> Tell us about your experience:</p>
+   <span style="display: inline-block; width: 200px; height: 90px; background-color: white; border: 1px solid black; text-align: left"> <br>
+    Fell free to tell us more about your experience 
+  </span> <br><br>
+  <button>Submit</button>
+  <button>Reset</button>
+</blck>
+</body>
+</html>
+
+<!-- this is so random but i'm starting to realize that i don't need to watch a 5+hrs or video tutorial if i want to learn something fast BUTTTT i do need to watch a 5+hrs if want to really understand something, idk it just makes sense that a 40minutes video about css gives me confidence that i can accomplish my website easily butttt a 1hr+ video tutorial about css makes me doubt myself if i can really do it -->
