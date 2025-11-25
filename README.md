@@ -335,3 +335,187 @@ Just thinking of you
     </center>
   </body>
 </html>
+
+
+
+<! this one is for the first button-->
+
+<!DOCTYPE html>
+		<html>
+		<head><title>FOR PICTURES</title>
+				<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<link rel="stylesheet" href="design pictures.css"/>
+				<style>
+				.upper, .sekand, .third {
+  font-family: Courier New;
+  border: 2px solid black;
+}
+
+
+.image, .images, .picture, .wint {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid black;
+    background-color: #ffb2c5;
+    padding: 10px;
+}
+
+.pic {
+    width: 150px; /* adjust size */
+}
+
+.text {
+    font-size: 24px;
+		font-family: courier new;
+} 
+	.button {
+	  font-family: courier new;
+	  padding: 10px;
+	  border: 2px solid black;
+	}
+				</style>
+		</head>
+		<body style="background-color: pink;"> <center>
+				
+						<p class="upper"><strong>This is my friends: </strong></p></center>
+				<div class="image">
+        <img class="pic"src="https://ik.imagekit.io/43hwgg6mr/IMG_20240730_164840.jpg" style="height: 100px;">
+						<span class="text">Senior high friends</span>
+				</div>
+				
+<br>
+				
+				<p class="sekand"><strong>and this: </strong></p></center>
+		<div class="images">
+				<img src="https://ik.imagekit.io/43hwgg6mr/IMG_20240730_164840.jpg" style="height: 100px;"> 
+				<span class="text">College friends</span>
+				<br>
+		</div>
+		
+		<p class="third"><strong>aaannddd this: </strong></p></center>
+ <div class="picture">
+				<img src="https://ik.imagekit.io/43hwgg6mr/IMG_20240730_164840.jpg" style="height: 100px;"> 
+ 		<span class="text">Junior high friends</span>
+ 		<br>
+ </div>
+<center>
+<p class="third"><strong>THIS IS MY BABYYYYYY</strong></p></center>
+  <div class="wint">
+  		<img src="https://ik.imagekit.io/43hwgg6mr/IMG_20240730_164840.jpg" style="height: 100px;">
+  		<span class="text">SUMMER AND WINTER</span>
+  		<br>
+  </div>
+<br>
+<button class="button"><a href="html1.html" style="background-color: pink;">back</a></button>
+
+		</body>
+		</html>
+
+
+
+
+<!-- this is for the last button html part-->
+
+<!DOCTYPE html>
+<html>
+<head><title>DREAMS</title>
+		<meta charset="UTF-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<link rel="stylesheet" href="dreams.css"/>
+</head>
+<body style="background-color: pink;">
+		<div class="tobe">
+		<span><strong>i want to be</strong></span>
+		</div>
+		<div class="star">
+		<p>★ kind
+				<p>in</p>
+				<p>every</p>
+				<p>possible</p>
+				<p>way ★</p>
+</div>
+				<br>
+		<div class="listt">
+				<ol>
+				 <li>to be successful enough</li>
+				 <li>to travel far</li>
+				 <li>to pet every cats i will saw</li>
+				 <li>to adopt and help all strays</li>
+						<li>to leave</li>
+				</ol>
+		</div>
+				<div class="last">
+						<span><strong>the goal:</strong></span>
+						<img class="huli"src="https://ik.imagekit.io/43hwgg6mr/3eba27d6ee918085912671fee7fb8461.jpg">
+						<span class="caps">take all the risks and think it is an another opportunity either to succed or to learn. <p>— sinabi ko yan hehe</p></span>
+				</div>
+				<br>
+				<button class="pin"><a href="html1.html" style="background-color: pink;">back</a></button>
+
+</body>
+</html>
+
+
+
+<!-- the css part for last button-->
+
+``` CSS
+.tobe {
+  font-family: courier new;
+  border: 2px solid black;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.star {
+   font-family: courier new;
+   border: 2px solid black;
+   justify-content: center;
+   align-items: center;
+   padding: 20px;
+   margin: 10px;
+   display: flex;
+   flex-direction: row;
+   gap: 1rem;
+ }
+ .listt {
+   border: 2px solid black;
+   font-family: courier new;
+   background-color: #ffe9ef;
+ }
+.last{
+  font-family: courier new;
+  padding: 10px;
+  border: 2px solid black;
+  margin: 10px;
+  display: flex;
+  align-items: top;
+  gap: 15px;
+}
+.huli {
+  display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 2px solid black;
+    background-color: #ffb2c5;
+    padding: 10px;
+  height: 200px;
+  width: 150px;
+}
+.caps {
+		 font-family: courier new;
+  align-content: center;
+} 
+.pin {
+	  font-family: courier new;
+	  padding: 10px;
+	  border: 2px solid black;
+	}
+
+
+
+<!-- i change all pics and some information -->
