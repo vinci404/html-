@@ -282,3 +282,56 @@ Just thinking of you
 </html>
 
 <!-- this is so random but i'm starting to realize that i don't need to watch a 5+hrs or video tutorial if i want to learn something fast BUTTTT i do need to watch a 5+hrs if want to really understand something, idk it just makes sense that a 40minutes video about css gives me confidence that i can accomplish my website easily butttt a 1hr+ video tutorial about css makes me doubt myself if i can really do it -->
+
+
+
+
+
+
+
+<!-- activity HTML with cass (inline, internal, and external-->
+<!-- i really enjoyed doing this-->
+<!DOCTYPE html>
+<html>
+  <head><title>first try</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    button {
+      display: flex;
+      align-content: center;
+      background-color: #ff9cb5;
+    }
+      </style>
+  </head>
+  
+  <!--upper sec-->
+  <body style="background-color: pink; font-family: Courier New;">
+    <center>
+      <div style="background-color: #ffb2c5; border: 1px solid black;"><h2>Know more about me</h2></div>
+  <!--slightly mid sec-->
+      <div style="background-color: #ffb2c5; display: flex; flex-direction: row; gap: 2.9rem;  justify-content: center; align-items: center; height: 30px; border: 1px solid black; margin: 10px;"> 
+        <p>i</p>
+        <p>|</p>
+        <p>am</p>
+        <p>|</p>
+        <p>posa</p>
+      </div>
+      <br>
+      <div style="background-color: #ffb2c5; border: 1px solid black; ">
+        <h2>Personal Information</h2>
+        <img src="https://ik.imagekit.io/43hwgg6mr/IMG_20251015_230844_816.webp" style="border: 2px solid black; padding: 1px; margin: center; height: 100px; width: 100px;">
+        <p>Hello! My name is <strong>vinci</strong> and I am craving for 20hrs of sleep and spaghetti right now. I like cats, food (except seafood), and airplanes. In addition to that, I love watching, eating, sleeping, doing nothing, and disturbing my cat.</p> <br>
+        <p>When I'm not at school, you can find me rooting im my bed whole day while binge watching or reading. I believe after I create this, google should hire.</p>
+      </div>
+      <hr><br>
+    </center>
+  <!--last part-->
+    <center> 
+      <button><a href="pictures.html" style="font-family: Courier New;">Know more about my relationship and social life here</a></button>
+    </center><br>
+    <center> 
+      <button><a href="dreams.html" style="font-family: Courier New;">Know more about my dreams here</a></button>
+    </center>
+  </body>
+</html>
